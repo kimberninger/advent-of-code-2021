@@ -1,0 +1,8 @@
+# macOS directory files
+.DS_Store
+
+# Python virtual environments
+venv/
+
+# IntelliJ project folder
+.idea/
