@@ -6,3 +6,7 @@ venv/
 
 # IntelliJ project folder
 .idea/
+
+__pycache__/
+
+MyPackageName.egg-info/
